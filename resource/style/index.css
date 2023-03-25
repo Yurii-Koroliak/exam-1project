@@ -106,6 +106,7 @@
   box-sizing: border-box;
   transition: all 0.2s;
   background: no-repeat;
+  background-size: cover;
 }
 
 img, svg {
